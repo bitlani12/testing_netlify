@@ -1,6 +1,6 @@
 ---
 title: Awesome kitt
-date: '2019-03-17T19:31:20.591z'
+date: 1999-12-31 11:59:59 -0800
 cats:
   - description: 'Maru is a Scottish Fold from Japan, and he loves boxes.'
     name: Maru (まる)
