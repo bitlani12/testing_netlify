@@ -1,6 +1,10 @@
 backend:
   name: git-gateway
+  repo: bitlani12/netlify Testing
   branch: master
+   slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+   create: true # Allow users to create new documents in this collection
+    folder: "_posts/blog" # The path to the folder where the documents are stored
 media_folder: static/img
 collections:
   - name: "pages"
